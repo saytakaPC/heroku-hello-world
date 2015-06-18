@@ -1,0 +1,2 @@
+source to 'https://rubygems.org'
+gem 'sinatra'
